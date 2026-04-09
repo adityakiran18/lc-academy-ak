@@ -5,6 +5,7 @@ import smtplib
 from email.message import EmailMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import HumanMessage, SystemMessage
+import tiktoken
 
 load_dotenv()
 #############################################
@@ -102,3 +103,8 @@ def get_wait_time(tlow=20, thigh=40):
     return wait_time
 
 ##############################################
+
+def count_token(text, model="gpt-4o") -> int:
+    encoding = tiktoken.encoding_for_model(model)
+    tokens = encoding.encode(text)
+    return len(tokens)
