@@ -1,71 +1,63 @@
 
-
-
-
+#--------------------------------------------------------------------------------
+job_url = """
+https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Senior-Data-Scientist---Agentic-AI---Decision-Intelligence_R0889533
+"""
+#--------------------------------------------------------------------------------
 jd_text = """
-Senior Associate, Data Scientist - AI Software Engineering
-Data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
 
-As a Data Scientist at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in computing and machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives.
-
-Team Description
-
-The AI Foundations – AI Software Engineering Data Science team designs, builds, and delivers state-of-the-art, scalable AI architectures that transform how software is developed at Capital One. We partner closely with product and engineering teams to create multi-agent solutions across the software development lifecycle—including code generation, migration, troubleshooting, root-cause analysis, and documentation—leveraging technologies such as LangGraph, MCP, agent-to-agent protocols, and advanced model customization techniques.
-
-Role Description
-
-In this role, you will:
-
-Partner with a cross-functional team of data scientists, software engineers, and product managers to deliver a product customers love
-
-Leverage a broad stack of technologies — Python, Conda, AWS, H2O, Spark, and more — to reveal the insights hidden within huge volumes of numeric and textual data
-
-Build machine learning models through all phases of development, from design through training, evaluation, validation, and implementation
-
-Flex your interpersonal skills to translate the complexity of your work into tangible business goals
-
-The Ideal Candidate is:
-
-Innovative. You continually research and evaluate emerging technologies. You stay current on published state-of-the-art methods, technologies, and applications and seek out opportunities to apply them.
-
-Creative. You thrive on bringing definition to big, undefined problems. You love asking questions and pushing hard to find answers. You’re not afraid to share a new idea.
-
-Technical. You’re comfortable with open-source languages and are passionate about developing further. You have hands-on experience developing data science solutions using open-source tools and cloud computing platforms.
-
-Statistically-minded. You’ve built models, validated them, and backtested them. You know how to interpret a confusion matrix or a ROC curve. You have experience with clustering, classification, sentiment analysis, time series, and deep learning.
-
-A data guru. “Big data” doesn’t faze you. You have the skills to retrieve, combine, and analyze data from a variety of sources and structures. You know understanding the data is often the key to great data science.
-
-Basic Qualifications:
-
-Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date:
-
-A Bachelor's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 2 years of experience performing data analytics
-
-A Master's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration
-
-Preferred Qualifications: 
-
-Master’s Degree in “STEM” field (Science, Technology, Engineering, or Mathematics), or PhD in “STEM” field (Science, Technology, Engineering, or Mathematics)
-
-Experience working with AWS
-
-Experience building production-grade agentic platforms, including RAG and graph-augmented systems, MCP or tool-calling integrations
-
-Demonstrated expertise in advanced model customization techniques—such as fine-tuning, parameter-efficient tuning (LoRA/QLoRA), reinforcement learning, or preference optimization
-
-Prior research and publications in AI/ML conferences 
-
-Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.
-
-The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
-
-McLean, VA: $135,600 - $154,800 for Sr Assoc, Data Science
-New York, NY: $148,000 - $168,900 for Sr Assoc, Data Science
-San Jose, CA: $148,000 - $168,900 for Sr Assoc, Data Science
-  """
+Senior Data Scientist - Agentic AI & Decision Intelligence
 
 
+R0889533
+We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time.
+
+
+Requisition Job Description
+
+Position Summary
+We are seeking a Sr. Data Scientist – Agentic AI & Decision Intelligence to pioneer the next generation of analytics and data driven decision-making. This role will focus on building and scaling agentic AI frameworks, conversational analytics, and decision intelligence systems that transform how our business interacts with data. You will design and execute a customer-centric analytics strategy powered by AI agents, LLMs, and generative AI, ensuring insights are not just delivered, but acted upon. This is a highly visible role where you will contribute to the vision, strategy, and own the execution of AI-driven decision systems, positioning the organization at the forefront of intelligent business analytics.
+
+Required Qualifications
+
+3+ years of experience in advanced analytics, decision science, applied AI/ML
+Strong programming skills in Python and SQL, with experience deploying AI systems in cloud environments (GCP, AWS, or Azure).
+Deep expertise in at least one area of advanced modeling: predictive analytics, reinforcement learning, NLP, or causal inference.
+Proven ability to translate complex AI concepts into business impact, including stakeholder alignment and business value sizing.
+Experience leading end-to-end AI-driven solution delivery: from data foundation to model orchestration to front-end adoption.
+Hands-on experience with LLMs, generative AI, or conversational AI frameworks (e.g., LangChain, RAG).
+Strong communication, storytelling, and customer engagement skills, with a passion for building solutions that are intuitive and impactful.
+
+Preferred Qualifications
+
+Experience implementing agentic AI systems for conversational analytics, autonomous reporting, or decision support.
+Familiarity with Vertex AI and Google Cloud Platform, or equivalent enterprise AI platforms.
+Familiarity with BI tools (Tableau, Looker, Power BI) and analytics engineering (Snowflake, modern warehouses).
+Background in healthcare or pharmacy analytics, with a strong interest in improving outcomes through intelligent decision systems.
+Experience with UI/UX design, customer journey mapping, and design thinking (Figma experience is a plus).
+Knowledge of data observability, governance, and AI ethics to ensure trustworthy, transparent decision intelligence systems.
+
+Education
+
+Bachelor's degree or equivalent work experience in Mathematics, Statistics, Computer Science, Business Analytics, Economics, Physics, Engineering, or related discipline. 
+
+Master’s degree or PhD preferred
+
+Anticipated Weekly Hours
+
+40
+Time Type
+
+Full time
+Pay Range
+
+The typical pay range for this role is:
+
+$111,240.00 - $222,480.00
+
+"""
+
+#--------------------------------------------------------------------------------
 project_experience = """
 I am using the STAR method to describe the projects.
 
